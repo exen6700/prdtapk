@@ -23,8 +23,8 @@ class AppConstants {
   static const bool isTestnet = true;
   static const String environment = 'PRDT TEST NETWORK';
   
-  // API URLs (Live Vercel deployment - Production)
-  static const String baseApiUrl = 'https://prdtapk-qm9he2lvf-exen6700s-projects.vercel.app/api';
+  // API URLs (Live Vercel deployment - GitHub Integration)
+  static const String baseApiUrl = 'https://prdtapk-d4h8o7ky0-exen6700s-projects.vercel.app/api';
   static const String registerUrl = '$baseApiUrl/register';
   static const String loginUrl = '$baseApiUrl/login';
   static const String sendVerificationUrl = '$baseApiUrl/send-verification';
