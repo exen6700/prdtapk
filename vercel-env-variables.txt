@@ -1,0 +1,12 @@
+VERCEL ENVIRONMENT VARIABLES
+
+1. EMAIL_PASSWORD
+Karamazow9510.
+
+2. SUPABASE_URL
+https://bvjqywbyehvqlzqoyspl.supabase.co
+
+3. SUPABASE_ANON_KEY
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJ2anF5d2J5ZWh2cWx6cW95c3BsIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDk1OTEyMzcsImV4cCI6MjA2NTE2NzIzN30.4HbyTYGBmrHfmUP2VPP1xoc5H_14DMN-LkZkvlX-arM
+
+API URL: https://prdtapk-2p4n7lday-exen6700s-projects.vercel.app/api 

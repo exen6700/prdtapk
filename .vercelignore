@@ -1,0 +1,43 @@
+# Flutter files
+lib/
+android/
+ios/
+web/
+windows/
+macos/
+linux/
+test/
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.yaml
+pubspec.lock
+analysis_options.yaml
+
+# Build files
+*.apk
+*.aab
+*.ipa
+*.dmg
+*.exe
+
+# Test files
+test/
+*.test.dart
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep only API files
+!api/
+!api/package.json
+!api/register.js
+!api/login.js
+!api/send-verification.js
+!api/verify-code.js
+!api/test.js 

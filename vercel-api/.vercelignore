@@ -1,0 +1,36 @@
+# Flutter build files
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.lock
+
+# Android
+android/
+*.apk
+*.aab
+
+# iOS
+ios/
+*.ipa
+
+# Web
+web/
+
+# Desktop
+windows/
+macos/
+linux/
+
+# Test files
+test/
+*.test.dart
+
+# Other
+*.log
+.DS_Store
+Thumbs.db
+
+# Keep only API files
+!vercel-api/
+!package.json 
